@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my own language learning website!
 - 🌱 I’m currently learning Electronics and programming languages!
-- 📬 Contact me by email: luan_navarro@hotmail.com
 
 <div align="center">
   <a href="https://github.com/Einss1">
